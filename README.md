@@ -42,20 +42,13 @@ Many Somali high school students show little enthusiasm toward ICT due to the bo
 * 🌍 **Location:** Mogadishu, Somalia
 * 🥉 **Achievement:** 3rd Place Winner
 * 👥 **Team Members:** 5 Developers
-* 👨‍🏫 **Team Lead:** Zack Daahir
-* 🙌 **Special Credit:** Najiib – Core Project Developer
+
 
 ---
 📸 Demo
 <img width="1782" height="868" alt="image" src="https://github.com/user-attachments/assets/702bec16-d92e-49ea-8214-5418ca478a0b" />
 
 
-## 📬 Contact
-
-**Zack Daahir**
-📧 Email: [zackdaahir909@gmail.com](mailto:zackdaahir909@gmail.com)
-📱 Phone: +252 613504813
-🔗 GitHub | Facebook | YouTube (Zack Daahir)
 
 ---
 
